@@ -11,8 +11,9 @@ public class Calculator {
 //        Subtraction sub = new Subtraction();
 //        Multiplication mul = new Multiplication();
 //        Division div = new Division();
-
         System.out.println("---------- Team Calculator ----------");
+       while(true) {
+       
         System.out.println("Enter first number:");
         double a = sc.nextDouble();
 
@@ -35,6 +36,8 @@ public class Calculator {
         }
 
         System.out.println("Result = " + result);
-        sc.close();
+        System.out.println("----------------------------------");
+}
+ 
     }
 }
