@@ -7,9 +7,9 @@ public class Calculator {
         Scanner sc = new Scanner(System.in);
 
         // Creating objects of all operations
-        Addition add = new Addition();
+   //     Addition add = new Addition();
 //        Subtraction sub = new Subtraction();
-//        Multiplication mul = new Multiplication();
+        Multiplication mul = new Multiplication();
 //        Division div = new Division();
 
         System.out.println("---------- Team Calculator ----------");
@@ -25,9 +25,9 @@ public class Calculator {
         double result = 0;
 
         switch(op) {
-            case '+': result = add.add(a, b); break;
+    //        case '+': result = add.add(a, b); break;
 //            case '-': result = sub.subtract(a, b); break;
-//            case '*': result = mul.multiply(a, b); break;
+           case '*': result = mul.multiply(a, b); break;
 //            case '/': result = div.divide(a, b); break;
             default:
                 System.out.println("Invalid operation!");
