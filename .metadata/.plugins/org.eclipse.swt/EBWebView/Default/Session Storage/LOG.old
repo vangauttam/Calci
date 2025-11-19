@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2025/11/17-18:08:28.033 94dc Reusing MANIFEST C:\Users\MANDADI\Documents\serverlets\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
 2025/11/17-18:08:28.037 94dc Recovering log #3
 2025/11/17-18:08:28.041 94dc Reusing old log C:\Users\MANDADI\Documents\serverlets\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+=======
+2025/11/17-18:25:48.052 54b8 Reusing MANIFEST C:\Users\venka\OneDrive\Documents\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
+2025/11/17-18:25:48.056 54b8 Recovering log #3
+2025/11/17-18:25:48.063 54b8 Reusing old log C:\Users\venka\OneDrive\Documents\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+>>>>>>> fad6318a50143ee6764a2830feeef97a1cb67bbb

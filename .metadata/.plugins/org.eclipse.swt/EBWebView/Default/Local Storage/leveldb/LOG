@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2025/11/18-17:28:29.294 5e48 Reusing MANIFEST C:\Users\MANDADI\Documents\serverlets\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
 2025/11/18-17:28:29.318 5e48 Recovering log #3
 2025/11/18-17:28:29.321 5e48 Reusing old log C:\Users\MANDADI\Documents\serverlets\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
+=======
+2025/11/18-17:27:21.374 360c Reusing MANIFEST C:\Users\venka\OneDrive\Documents\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/11/18-17:27:21.384 360c Recovering log #3
+2025/11/18-17:27:21.388 360c Reusing old log C:\Users\venka\OneDrive\Documents\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
+>>>>>>> fad6318a50143ee6764a2830feeef97a1cb67bbb

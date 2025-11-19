@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 2025/11/17-18:08:11.226 a5e0 Creating DB C:\Users\MANDADI\Documents\serverlets\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Scripts since it was missing.
 2025/11/17-18:08:11.244 a5e0 Reusing MANIFEST C:\Users\MANDADI\Documents\serverlets\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Scripts/MANIFEST-000001
+=======
+2025/11/17-18:05:00.768 db68 Creating DB C:\Users\venka\OneDrive\Documents\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Scripts since it was missing.
+2025/11/17-18:05:00.780 db68 Reusing MANIFEST C:\Users\venka\OneDrive\Documents\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Extension Scripts/MANIFEST-000001
+>>>>>>> fad6318a50143ee6764a2830feeef97a1cb67bbb

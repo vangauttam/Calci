@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2025/11/18-17:28:29.044 4458 Reusing MANIFEST C:\Users\MANDADI\Documents\serverlets\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
 2025/11/18-17:28:29.054 4458 Recovering log #3
 2025/11/18-17:28:29.054 4458 Reusing old log C:\Users\MANDADI\Documents\serverlets\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
+=======
+2025/11/18-17:27:21.254 d97c Reusing MANIFEST C:\Users\venka\OneDrive\Documents\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2025/11/18-17:27:21.255 d97c Recovering log #3
+2025/11/18-17:27:21.255 d97c Reusing old log C:\Users\venka\OneDrive\Documents\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
+>>>>>>> fad6318a50143ee6764a2830feeef97a1cb67bbb

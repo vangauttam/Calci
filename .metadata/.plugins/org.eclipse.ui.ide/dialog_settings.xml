@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="ExternalProjectImportWizard">
+<<<<<<< HEAD
 		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
@@ -12,6 +13,8 @@
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
 		</list>
+=======
+>>>>>>> fad6318a50143ee6764a2830feeef97a1cb67bbb
 		<section name="ExternalProjectImportWizard.dialogBounds">
 			<item key="DIALOG_X_ORIGIN" value="513"/>
 			<item key="DIALOG_Y_ORIGIN" value="79"/>
@@ -22,7 +25,11 @@
 	</section>
 	<section name="ChooseWorkspaceDialogSettings">
 		<item key="DIALOG_X_ORIGIN" value="481"/>
+<<<<<<< HEAD
 		<item key="DIALOG_Y_ORIGIN" value="215"/>
+=======
+		<item key="DIALOG_Y_ORIGIN" value="154"/>
+>>>>>>> fad6318a50143ee6764a2830feeef97a1cb67bbb
 	</section>
 	<section name="WORKBENCH_SETTINGS">
 		<list key="ENABLED_TRANSFERS">

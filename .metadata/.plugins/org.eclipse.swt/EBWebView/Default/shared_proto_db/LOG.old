@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2025/11/17-18:08:25.771 796c Reusing MANIFEST C:\Users\MANDADI\Documents\serverlets\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
 2025/11/17-18:08:25.772 796c Recovering log #3
 2025/11/17-18:08:25.776 796c Reusing old log C:\Users\MANDADI\Documents\serverlets\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/000003.log 
+=======
+2025/11/17-18:05:09.305 b7e0 Reusing MANIFEST C:\Users\venka\OneDrive\Documents\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2025/11/17-18:05:09.305 b7e0 Recovering log #3
+2025/11/17-18:05:09.306 b7e0 Reusing old log C:\Users\venka\OneDrive\Documents\internship\Calci\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/000003.log 
+>>>>>>> fad6318a50143ee6764a2830feeef97a1cb67bbb

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
+<<<<<<< HEAD
     <libraryInfo home="C:\Users\MANDADI\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412\jre" version="21.0.8"/>
     <libraryInfo home="C:\Users\MANDADI\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412" version="21.0.8">
+=======
+    <libraryInfo home="C:\Users\venka\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412" version="21.0.8">
+>>>>>>> fad6318a50143ee6764a2830feeef97a1cb67bbb
         <bootpath>
             <entry path="null"/>
         </bootpath>
@@ -12,5 +16,10 @@
             <entry path="null"/>
         </endorsedDirs>
     </libraryInfo>
+<<<<<<< HEAD
+=======
+    <libraryInfo home="C:\Users\venka\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412\jre" version="21.0.8"/>
+    <libraryInfo home="C:\Java" version="11.0.17"/>
+>>>>>>> fad6318a50143ee6764a2830feeef97a1cb67bbb
     <libraryInfo home="C:\Program Files\Java\jdk-21" version="21.0.6"/>
 </libraryInfos>
